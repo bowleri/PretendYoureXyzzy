@@ -682,6 +682,98 @@ COPY black_cards (id, draw, pick, text, watermark) FROM stdin;
 578	0	2	I need you like ____ needs ____.	WWW
 579	0	2	Such ____. Very ____. Wow.	WWW
 580	0	1	Nothing says "I love you" like ____.	WWW
+3000	0	1	Plenary indulgences are granted during the COVID-19 outbreak for ________.	SPDE
+3001	0	1	St. Corona is praying for those who are ________.	SPDE
+3002	0	1	I was late to the live steam Mass because of ________.	SPDE
+3003	0	1	Catholics are struggling with quarantine because of ________.	SPDE
+3004	0	1	The Catholic Church will be stronger after the outbreak because of ________.	SPDE
+3005	0	1	From the desire of destroying ________, deliver me, Jesus.	SPDE
+3006	0	1	"Love is patient, love is kind, love is _________."  	SPDE
+3007	0	1	Doubting Thomas wished he was known for _________.	SPDE
+3008	0	1	What priests really want to talk about in their homilies.	SPDE
+3009	0	1	Catholics are tired of talking about ________ with non-Catholics.	SPDE
+3010	0	1	Jesus performed the miracle of ________ but it was never recorded.	SPDE
+3011	0	1	Jesus would never be caught ________.	SPDE
+3012	0	1	Mel Gibson's newest movie is titled: "________".	SPDE
+3013	0	1	I would be the Patron Saint of ________.	SPDE
+3014	0	1	Lord, give me purity, just not ________.	SPDE
+3015	0	1	"And they'll know we are Christians by our ________".	SPDE
+3016	0	1	Other things Abraham could have sacrified.	SPDE
+3017	0	1	The topic of the next Papal Encyclical.	SPDE
+3018	0	1	If I started an order, it would focus on ________.	SPDE
+3019	0	1	An EWTN Original Series: ________.	SPDE
+3020	0	1	Priests think about _________ in their free time.	SPDE
+3021	0	1	The pope is writing about ________ right now.	SPDE
+3022	0	1	What should I give up for Lent?  	SPDE
+3023	0	1	Michelangelo's newest painting is titled ________.	SPDE
+3024	0	1	Every Catholic girl's dream.	SPDE
+3025	0	1	My old, Catholic grandma is known for ________.	SPDE
+3026	0	1	A lesser-known Bible story is about ________.	SPDE
+3027	0	1	The next Council will be in response to ________.	SPDE
+3028	0	1	When Jesus comes again, he will talk about ________ first.	SPDE
+3029	0	1	What is CS Lewis' next book about?  David's secret weapon to defeat Goliath was ________.	SPDE
+3030	0	1	On the 8th day, God created _______.	SPDE
+3031	0	1	Another reason Saul was knocked off his horse on his way to Damascus.	SPDE
+3032	0	1	Catechsism #2866 talks about ________.	SPDE
+3033	0	1	The Youth Minister has a tattoo of ________.	SPDE
+3034	0	1	Martin Luther just couldn't wrap his head around ______.	SPDE
+3035	0	1	The New Evangelization's greatest tool is ________.	SPDE
+3036	0	1	You'll find this in Heaven.	SPDE
+3037	0	1	A Catholic's secret guilty pleasure.	SPDE
+3038	0	1	I'm a bad Catholic because of ________.	SPDE
+3039	0	1	The real reason for the Orthodox schism.	SPDE
+3040	0	1	Catholic millennials are known for ________.	SPDE
+3041	0	1	The newest hit hymn to hit the Church is called ________.	SPDE
+3042	0	1	You know you're Catholic when you love talking about ________.	SPDE
+3043	0	1	Being Catholic is the best because of ________.	SPDE
+3044	0	1	What is talked about at the pub?  	SPDE
+3045	0	1	_______, the number one reason for staying chaste.	SPDE
+3046	0	1	Youth Ministers love talking about ________.	SPDE
+3047	0	1	What Catholics are most known for to non-Catholics.	SPDE
+3048	0	1	I will be canonized for ________.	SPDE
+3049	0	1	Records of ________ are found in the Secret Vatican Archives.	SPDE
+3050	0	1	Jesus specialized in ________ before his public ministry.	SPDE
+3051	0	1	The newest Catholic podcast talks entirely about _________.	SPDE
+3052	0	1	The stained glass window in the back of church is about ________.	SPDE
+3053	0	1	Seminarians talk about ________ after class.	SPDE
+3054	0	1	________, a near occassion of sin.	SPDE
+3055	0	1	________ keeps me from prayer.	SPDE
+3056	0	1	There will be ________ in eternity.	SPDE
+3057	0	1	We were taught about ________ in Religious Ed as kids.	SPDE
+3058	0	1	I would like ________ for Christmas.	SPDE
+3059	0	1	The 11th commandment is about ________.	SPDE
+3060	0	1	The hills are alive with the sound of ________.	SPDE
+3061	0	1	A denied Gospel spoke about _______.	SPDE
+3062	0	1	Lord, I need ________.	SPDE
+3063	0	1	________ led me to ________.	SPDE
+3064	0	1	Things Jesus never spoke about.	SPDE
+3065	0	1	The Easter Vigil Mass is so long because of ________.	SPDE
+3066	0	1	I saw visions of ________ after _______.	SPDE
+3067	0	1	Saints pray for people who struggle with ________.	SPDE
+3068	0	1	I hope my tithe goes to providing ________ to the Church.	SPDE
+3069	0	1	Contemplating ________ takes up a lot of my prayer time.	SPDE
+3070	0	1	The best pilgrimages offer ________ to its pilgrims.	SPDE
+3071	0	1	A nun's favorite thing about her order is ________.	SPDE
+3072	0	1	The 11th plague: ________.	SPDE
+3073	0	1	St. Nicholas brought ________ to kids for Christmas for the first time.	SPDE
+3074	0	1	NET Ministries uses ________ to liven up their retreats.	SPDE
+3075	0	1	The next shrine will be built for ________.	SPDE
+3076	0	1	Ain't no party like a Catholic party because a Catholic party has ________.	SPDE
+3077	0	1	________: the hit Catholic musical.	SPDE
+3078	0	1	What did I bring back from Rome?  	SPDE
+3079	0	1	Next, on Catholic radio, we will be talking about ______.	SPDE
+3080	0	1	I am guilty of ______.	SPDE
+3081	0	1	In his youth, St. Augustine struggled with ________.	SPDE
+3082	0	1	I got seven deadly sins but ________ ain't one.	SPDE
+3083	0	1	Mea Culpa, Father, I couldn't make it to Mass because of ________.	SPDE
+3084	0	1	________ helps Parish priests relax.	SPDE
+3085	0	1	From the desire of destroying ________, deliever me, Jesus.	SPDE
+3086	0	1	If Jesus hadn't died for our sins, his back-up plan might have been ________.	SPDE
+3087	0	1	Thomas Aquinas wrote the most about ________.	SPDE
+3088	0	1	At the sight of ________ Jesus was amazed.	SPDE
+3089	0	1	________ fixed the Church after the mess that was the 1970s.	SPDE
+3090	0	1	St. Patrick didn't just drive the snakes out of Ireland, he also drove out ________.	SPDE
+3091	0	1	I will intercede for they who are ________.	SPDE
 \.
 
 
@@ -734,6 +826,7 @@ COPY card_set (id, active, base_deck, description, name, weight) FROM stdin;
 2131	t	f	Box Expansion Pack	Box Expansion Pack	30
 2152	t	f	Hidden Compartment Pack	Hidden Compartment Pack	30
 2374	t	f	PAX Prime 2014 Pack	PAX Prime 2014 Pack	107
+420	t	f	Catholic Cards	Catholic Cards	1
 \.
 
 
@@ -1593,6 +1686,98 @@ COPY card_set_black_card (card_set_id, black_card_id) FROM stdin;
 572	573
 572	574
 572	575
+420	3000
+420	3001
+420	3002
+420	3003
+420	3004
+420	3005
+420	3006
+420	3007
+420	3008
+420	3009
+420	3010
+420	3011
+420	3012
+420	3013
+420	3014
+420	3015
+420	3016
+420	3017
+420	3018
+420	3019
+420	3020
+420	3021
+420	3022
+420	3023
+420	3024
+420	3025
+420	3026
+420	3027
+420	3028
+420	3029
+420	3030
+420	3031
+420	3032
+420	3033
+420	3034
+420	3035
+420	3036
+420	3037
+420	3038
+420	3039
+420	3040
+420	3041
+420	3042
+420	3043
+420	3044
+420	3045
+420	3046
+420	3047
+420	3048
+420	3049
+420	3050
+420	3051
+420	3052
+420	3053
+420	3054
+420	3055
+420	3056
+420	3057
+420	3058
+420	3059
+420	3060
+420	3061
+420	3062
+420	3063
+420	3064
+420	3065
+420	3066
+420	3067
+420	3068
+420	3069
+420	3070
+420	3071
+420	3072
+420	3073
+420	3074
+420	3075
+420	3076
+420	3077
+420	3078
+420	3079
+420	3080
+420	3081
+420	3082
+420	3083
+420	3084
+420	3085
+420	3086
+420	3087
+420	3088
+420	3089
+420	3090
+420	3091
 \.
 
 
@@ -5432,6 +5617,449 @@ COPY card_set_white_card (card_set_id, white_card_id) FROM stdin;
 2374	2365
 2374	2366
 2374	2367
+420	3092
+420	3093
+420	3094
+420	3095
+420	3096
+420	3097
+420	3098
+420	3099
+420	3100
+420	3101
+420	3102
+420	3103
+420	3104
+420	3105
+420	3106
+420	3107
+420	3108
+420	3109
+420	3110
+420	3111
+420	3112
+420	3113
+420	3114
+420	3115
+420	3116
+420	3117
+420	3118
+420	3119
+420	3120
+420	3121
+420	3122
+420	3123
+420	3124
+420	3125
+420	3126
+420	3127
+420	3128
+420	3129
+420	3130
+420	3131
+420	3132
+420	3133
+420	3134
+420	3135
+420	3136
+420	3137
+420	3138
+420	3139
+420	3140
+420	3141
+420	3142
+420	3143
+420	3144
+420	3145
+420	3146
+420	3147
+420	3148
+420	3149
+420	3150
+420	3151
+420	3152
+420	3153
+420	3154
+420	3155
+420	3156
+420	3157
+420	3158
+420	3159
+420	3160
+420	3161
+420	3162
+420	3163
+420	3164
+420	3165
+420	3166
+420	3167
+420	3168
+420	3169
+420	3170
+420	3171
+420	3172
+420	3173
+420	3174
+420	3175
+420	3176
+420	3177
+420	3178
+420	3179
+420	3180
+420	3181
+420	3182
+420	3183
+420	3184
+420	3185
+420	3186
+420	3187
+420	3188
+420	3189
+420	3190
+420	3191
+420	3192
+420	3193
+420	3194
+420	3195
+420	3196
+420	3197
+420	3198
+420	3199
+420	3200
+420	3201
+420	3202
+420	3203
+420	3204
+420	3205
+420	3206
+420	3207
+420	3208
+420	3209
+420	3210
+420	3211
+420	3212
+420	3213
+420	3214
+420	3215
+420	3216
+420	3217
+420	3218
+420	3219
+420	3220
+420	3221
+420	3222
+420	3223
+420	3224
+420	3225
+420	3226
+420	3227
+420	3228
+420	3229
+420	3230
+420	3231
+420	3232
+420	3233
+420	3234
+420	3235
+420	3236
+420	3237
+420	3238
+420	3239
+420	3240
+420	3241
+420	3242
+420	3243
+420	3244
+420	3245
+420	3246
+420	3247
+420	3248
+420	3249
+420	3250
+420	3251
+420	3252
+420	3253
+420	3254
+420	3255
+420	3256
+420	3257
+420	3258
+420	3259
+420	3260
+420	3261
+420	3262
+420	3263
+420	3264
+420	3265
+420	3266
+420	3267
+420	3268
+420	3269
+420	3270
+420	3271
+420	3272
+420	3273
+420	3274
+420	3275
+420	3276
+420	3277
+420	3278
+420	3279
+420	3280
+420	3281
+420	3282
+420	3283
+420	3284
+420	3285
+420	3286
+420	3287
+420	3288
+420	3289
+420	3290
+420	3291
+420	3292
+420	3293
+420	3294
+420	3295
+420	3296
+420	3297
+420	3298
+420	3299
+420	3300
+420	3301
+420	3302
+420	3303
+420	3304
+420	3305
+420	3306
+420	3307
+420	3308
+420	3309
+420	3310
+420	3311
+420	3312
+420	3313
+420	3314
+420	3315
+420	3316
+420	3317
+420	3318
+420	3319
+420	3320
+420	3321
+420	3322
+420	3323
+420	3324
+420	3325
+420	3326
+420	3327
+420	3328
+420	3329
+420	3330
+420	3331
+420	3332
+420	3333
+420	3334
+420	3335
+420	3336
+420	3337
+420	3338
+420	3339
+420	3340
+420	3341
+420	3342
+420	3343
+420	3344
+420	3345
+420	3346
+420	3347
+420	3348
+420	3349
+420	3350
+420	3351
+420	3352
+420	3353
+420	3354
+420	3355
+420	3356
+420	3357
+420	3358
+420	3359
+420	3360
+420	3361
+420	3362
+420	3363
+420	3364
+420	3365
+420	3366
+420	3367
+420	3368
+420	3369
+420	3370
+420	3371
+420	3372
+420	3373
+420	3374
+420	3375
+420	3376
+420	3377
+420	3378
+420	3379
+420	3380
+420	3381
+420	3382
+420	3383
+420	3384
+420	3385
+420	3386
+420	3387
+420	3388
+420	3389
+420	3390
+420	3391
+420	3392
+420	3393
+420	3394
+420	3395
+420	3396
+420	3397
+420	3398
+420	3399
+420	3400
+420	3401
+420	3402
+420	3403
+420	3404
+420	3405
+420	3406
+420	3407
+420	3408
+420	3409
+420	3410
+420	3411
+420	3412
+420	3413
+420	3414
+420	3415
+420	3416
+420	3417
+420	3418
+420	3419
+420	3420
+420	3421
+420	3422
+420	3423
+420	3424
+420	3425
+420	3426
+420	3427
+420	3428
+420	3429
+420	3430
+420	3431
+420	3432
+420	3433
+420	3434
+420	3435
+420	3436
+420	3437
+420	3438
+420	3439
+420	3440
+420	3441
+420	3442
+420	3443
+420	3444
+420	3445
+420	3446
+420	3447
+420	3448
+420	3449
+420	3450
+420	3451
+420	3452
+420	3453
+420	3454
+420	3455
+420	3456
+420	3457
+420	3458
+420	3459
+420	3460
+420	3461
+420	3462
+420	3463
+420	3464
+420	3465
+420	3466
+420	3467
+420	3468
+420	3469
+420	3470
+420	3471
+420	3472
+420	3473
+420	3474
+420	3475
+420	3476
+420	3477
+420	3478
+420	3479
+420	3480
+420	3481
+420	3482
+420	3483
+420	3484
+420	3485
+420	3486
+420	3487
+420	3488
+420	3489
+420	3490
+420	3491
+420	3492
+420	3493
+420	3494
+420	3495
+420	3496
+420	3497
+420	3498
+420	3499
+420	3500
+420	3501
+420	3502
+420	3503
+420	3504
+420	3505
+420	3506
+420	3507
+420	3508
+420	3509
+420	3510
+420	3511
+420	3512
+420	3513
+420	3514
+420	3515
+420	3516
+420	3517
+420	3518
+420	3519
+420	3520
+420	3521
+420	3522
+420	3523
+420	3524
+420	3525
+420	3526
+420	3527
+420	3528
+420	3529
+420	3530
+420	3531
+420	3532
+420	3533
+420	3534
 \.
 
 
@@ -7481,6 +8109,450 @@ COPY white_cards (id, text, watermark) FROM stdin;
 2620	Game of Thrones spoilers.	WWW
 2621	Cat massage.	WWW
 2622	Matching with Mom on Tinder.	WWW
+3092	Fasting before Spiritual Communion.	SPDE
+3093	Stocking up on food like Joseph in the Old Testament.	SPDE
+3094	Coming out of quarantine like Lazarus from the tomb.	SPDE
+3095	Washing my hands like Pontius Pilate.	SPDE
+3096	Hosting Bible Studies on Twitch.	SPDE
+3097	No longer having an excuse to not pray.	SPDE
+3098	Trying to do school from home.	SPDE
+3099	Repenting and submitting to my Bishop's authority.	SPDE
+3100	Learning about St. Corona for the first time.	SPDE
+3101	Not having a big enough parking lot for "drive by Confessions." 	SPDE
+3102	Wearing pajamas during online Mass.	SPDE
+3103	Wishing I went to Confession before it was shut down.	SPDE
+3104	Participating in online Praise & Worship only to find I have a terrible voice when not singing with a crowd.	SPDE
+3105	Doubling up on my podcast listening.	SPDE
+3106	Reducing my Lenten load since everything has been taken away.	SPDE
+3107	Virtual priest shopping for the best online Mass.	SPDE
+3108	Giving the sign of peace to my cat.	SPDE
+3109	Legally having to split up my family because there are more than 10 of us.	SPDE
+3110	Looking for the cry room whilst streaming Mass.	SPDE
+3111	The struggle of saying prayers in unison during online meetings.	SPDE
+3112	Adoring our Lord and Savior through the computer screen.	SPDE
+3113	The Domestic Church Renewal.	SPDE
+3114	Reliving the upper room experience of the Apostles.	SPDE
+3115	Still leaving Mass early by closing the computer immediately after Communion is over.	SPDE
+3116	Watching the Church quickly adapt to having an online presence.	SPDE
+3117	Thinking that we are living in the end times.	SPDE
+3118	Sending James 4:8b to everyone I know. "Wash your hands, you sinners."	SPDE
+3119	Paying even closer attention to NFP charts.	SPDE
+3120	Moving to a new pew after I hear coughing directly behind me.	SPDE
+3121	Hoping the Sign of Peace does not make its way back into the Liturgy.	SPDE
+3122	Never again taking the Sacraments for granted.	SPDE
+3123	The Protestant Reformation.	SPDE
+3124	Being married with 11 kids.	SPDE
+3125	Using a big rock altar on retreat.	SPDE
+3126	Not focusing during a Rosary.	SPDE
+3127	Standing during the Palm Sunday Gospel reading.	SPDE
+3128	Daily Mass at 6:30 am.	SPDE
+3129	CatholicMatch	SPDE
+3130	Jim Caviezel.	SPDE
+3131	Making sure everyone knows about the Cross I bear.	SPDE
+3132	Leaving Mass early to watch the football game.	SPDE
+3133	Henry the Eighth's wives.	SPDE
+3134	Walking on water.	SPDE
+3135	Cutting off the guard's ear.	SPDE
+3136	Flipping tables.	SPDE
+3137	The Last Supper.	SPDE
+3138	Pagans.	SPDE
+3139	Sitting in the back of the Church.	SPDE
+3140	Blaming Eve.	SPDE
+3141	Whispering "sinner" at people on the street.	SPDE
+3142	Offering it up.	SPDE
+3143	Being the only person in the choir under 65.	SPDE
+3144	Holding hands with my crush during the Lord's prayer.	SPDE
+3145	Jesuits.	SPDE
+3146	Avoiding the sick during the sign of peace.	SPDE
+3147	Sitting for the "few" announcements.	SPDE
+3148	The choir director who loves the sound of their own voice.	SPDE
+3149	Avoiding eye contact with the person with the collection basket.	SPDE
+3150	Crying kids in Church.	SPDE
+3151	Too much holy water on my fingers.	SPDE
+3152	Loudly dropping the pew.	SPDE
+3153	Accidentally licking the priest's thumb.	SPDE
+3154	Craving Church wine.	SPDE
+3155	The Second Vatican Council.	SPDE
+3156	The fast dinner blessing.	SPDE
+3157	Floating during prayer.	SPDE
+3158	Going on a mission trip.	SPDE
+3159	Tithing less than 10%.	SPDE
+3160	The attractive seminarian.	SPDE
+3161	The Big Bang Theory.	SPDE
+3162	Catholic School.	SPDE
+3163	The March for Life.	SPDE
+3164	Deus Vult! Chewing gum before Mass.	SPDE
+3165	The golden calf.	SPDE
+3166	Falling asleep in the Chapel.	SPDE
+3167	Passover.	SPDE
+3168	Natural Family Planning.	SPDE
+3169	Rameses.	SPDE
+3170	The Resurrection.	SPDE
+3171	Needing a bigger cell phone family plan.	SPDE
+3172	John 3:16.	SPDE
+3173	A short penance.	SPDE
+3174	The Summa Theologica.	SPDE
+3175	Waking up at 5 am to pray.	SPDE
+3176	Leaving room for the Holy Spirit.	SPDE
+3177	A church with a broken air conditioner.	SPDE
+3178	Life Teen.	SPDE
+3179	Causing scandal to pious ears.	SPDE
+3180	Scott Hahn.	SPDE
+3181	Jason and Crystalina Evert.	SPDE
+3182	A homily that goes on forever.	SPDE
+3183	An overcrowded Chapel.	SPDE
+3184	Philip Rivers.	SPDE
+3185	Showing up to Mass after the first reading.	SPDE
+3186	Scouting the Church before I sit.	SPDE
+3187	Dipping out after Communion.	SPDE
+3188	The woman who sings loudly out of key.	SPDE
+3189	People who pray two words ahead of everyone else.	SPDE
+3190	Pronouncing names wrong in the Prayers of the Faithful.	SPDE
+3191	Christmas and Easter Catholics.	SPDE
+3192	Knowing all the lines of The Lord of the Rings movies.	SPDE
+3193	Thinking Harry Potter is the devil.	SPDE
+3194	Donut Sunday.	SPDE
+3195	Fish fries in the basement.	SPDE
+3196	Mom groups.	SPDE
+3197	Creationism.	SPDE
+3198	The Burning Bush.	SPDE
+3199	Catholic memes.	SPDE
+3200	Abstinence.	SPDE
+3201	Gluten free Communion.	SPDE
+3202	Giving up chocolate for Lent.	SPDE
+3203	Showing off my new prayer journal.	SPDE
+3204	Mass lasting longer than an hour.	SPDE
+3205	Being named John Paul along with every other boy in the class.	SPDE
+3206	Stealing Grandma's Magnificat.	SPDE
+3207	A blinged out consecration bracelet.	SPDE
+3208	Peach fuzz.	SPDE
+3209	Wearing so many miraculous medals it causes a headache.	SPDE
+3210	Invoking St. Anthony every morning to find the keys.	SPDE
+3211	Catholic school uniforms.	SPDE
+3212	Jean skirts.	SPDE
+3213	High water pants.	SPDE
+3214	Socks with Birkenstocks.	SPDE
+3215	Reading the Song of Solomon with my parents.	SPDE
+3216	John Paul the Great Catholic University.	SPDE
+3217	Knowing all the words of Silly Songs with Larry.	SPDE
+3218	Adventures in Odyssey.	SPDE
+3219	Praying in tongues.	SPDE
+3220	A homeschool conference.	SPDE
+3221	Trying to explain the Trinity.	SPDE
+3222	Being obsessed with babies.	SPDE
+3223	Naming my grill St. Lawrence.	SPDE
+3224	Forgetting it's Friday right after the first bite of the burger.	SPDE
+3225	Having the goal of martyrdom.	SPDE
+3226	Being jealous of those that know more Bible verses.	SPDE
+3227	Drinking beer.	SPDE
+3228	Eating bacon.	SPDE
+3229	Being trapped in the belly of a whale.	SPDE
+3230	Daniel in the lion's den.	SPDE
+3231	Identifying too closely to young St. Augustine.	SPDE
+3232	A mom who prays to St. Jude for her child.	SPDE
+3233	Thomas Aquinas' haircut.	SPDE
+3234	Being afraid of snakes.	SPDE
+3235	Punching heretics.	SPDE
+3236	The altar boy who can't stay awake.	SPDE
+3237	My creepy Godfather.	SPDE
+3238	Wondering where dinosaurs fit in with the Creation story.	SPDE
+3239	Having a day as bad as Tobit's.	SPDE
+3240	Lazarus.	SPDE
+3241	Suffocating from the incense.	SPDE
+3242	Not knowing if I should hug during the sign of peace.	SPDE
+3243	Saying hi to Jesus for a friend.	SPDE
+3244	Being too of the world.	SPDE
+3245	Not wanting to be a lamb around Passover.	SPDE
+3246	Not dating within the youth group.	SPDE
+3247	Fearing the Jews.	SPDE
+3248	A glow in the dark Rosary.	SPDE
+3249	Liturgical dancing.	SPDE
+3250	Raking in cash for Confirmation.	SPDE
+3251	Living in Community.	SPDE
+3252	Trying to stay in the state of grace in the parking lot.	SPDE
+3253	The cry room at Church.	SPDE
+3254	The kid that stares at me in Mass.	SPDE
+3255	Still saying "and also with you."	SPDE
+3256	Breathing on my friends.	SPDE
+3257	Minivan envy.	SPDE
+3258	Being in 6 weddings in one year.	SPDE
+3259	Listening to Matt Maher.	SPDE
+3260	Having a minor in Catholic Studies.	SPDE
+3261	Getting my MRS degree.	SPDE
+3262	A rich Franciscan.	SPDE
+3263	Christian rap.	SPDE
+3264	Pancake breakfasts.	SPDE
+3265	An American saint.	SPDE
+3266	Striving for holiness.	SPDE
+3267	Bob the tomato.	SPDE
+3268	Mark Wahlberg.	SPDE
+3269	Praying to the saints.	SPDE
+3270	Getting slain by the Spirit.	SPDE
+3271	A private audience with the Pope.	SPDE
+3272	The catacombs.	SPDE
+3273	The Rapture.	SPDE
+3274	Pope memorabilia.	SPDE
+3275	The "Friend Zone."	SPDE
+3276	The statue of David.	SPDE
+3277	The tomb of St. Peter.	SPDE
+3278	Canonization.	SPDE
+3279	The King James Bible.	SPDE
+3280	A chatty cloistered nun.	SPDE
+3281	Trying not to stare at the Knights of Columbus feather hats.	SPDE
+3282	The Good Samaritan.	SPDE
+3283	A technicolor coat.	SPDE
+3284	A vow of poverty.	SPDE
+3285	The sin of Simony.	SPDE
+3286	Making a public confession.	SPDE
+3287	The Crusades.	SPDE
+3288	Being the oldest of 9.	SPDE
+3289	Hunting for a wife.	SPDE
+3290	Anthony Hopkins.	SPDE
+3291	Exorcism.	SPDE
+3292	Chanting during Mass.	SPDE
+3293	Gregory Peck.	SPDE
+3294	The Scarlet and the Black.	SPDE
+3295	Smoking a pipe with G. Chesterton.	SPDE
+3296	No intervisitation in college dorms.	SPDE
+3297	Sacrilege.	SPDE
+3298	FOCUS missionaries.	SPDE
+3299	Losing count on my decade of the Rosary.	SPDE
+3300	An extra long confession.	SPDE
+3301	Not getting exactly what I pray for.	SPDE
+3302	Having 147 prayer cards that I just can't throw away.	SPDE
+3303	The Filet O'Fish.	SPDE
+3304	Invoking St. Joseph of Cupertino rather than studying.	SPDE
+3305	Having visions.	SPDE
+3306	Naming kids after obscure saints no one's ever heard of.	SPDE
+3307	Josephite marriage.	SPDE
+3308	Getting to the tomb first.	SPDE
+3309	The one whom Jesus loved.	SPDE
+3310	The Passion of Christ.	SPDE
+3311	Referencing the Catechism.	SPDE
+3312	Genuflecting at the movie theater.	SPDE
+3313	Accidentally doing the Sign of the Cross before a meeting at work.	SPDE
+3314	Adam and Eve's wardrobe.	SPDE
+3315	Seeing the white smoke.	SPDE
+3316	Taking the Bible literally.	SPDE
+3317	Fasting.	SPDE
+3318	Wandering in the desert.	SPDE
+3319	Wanting more descendants than stars in the sky.	SPDE
+3320	Making cord Rosaries.	SPDE
+3321	The Popemobile.	SPDE
+3322	A Christian fish tattoo.	SPDE
+3323	Praying the wrong Glory Be.	SPDE
+3324	Waiting for the flower after finishing the Novena to St. Therese.	SPDE
+3325	Winning a goldfish at the church festival.	SPDE
+3326	Weak Church coffee.	SPDE
+3327	Washing feet with toe fungus.	SPDE
+3328	Zacchaeus.	SPDE
+3329	The Book of James.	SPDE
+3330	Making $5/hr as a babysitter.	SPDE
+3331	Being one flesh.	SPDE
+3332	The Boondock Saints.	SPDE
+3333	The narrow path.	SPDE
+3334	Salt of the earth.	SPDE
+3335	Receiving Last Rites multiple times.	SPDE
+3336	Fishers of men.	SPDE
+3337	Perpetual adoration.	SPDE
+3338	Bishop Robert Barron.	SPDE
+3339	Carpentry.	SPDE
+3340	Holy tax collectors.	SPDE
+3341	Mortification.	SPDE
+3342	Denial.	SPDE
+3343	Purity rings.	SPDE
+3344	Moses' pet quail.	SPDE
+3345	A fig tree.	SPDE
+3346	Vacation Bible School.	SPDE
+3347	A friend who only prays in Latin.	SPDE
+3348	Mr. Tumnus.	SPDE
+3349	Seeing Adam naked for the first time.	SPDE
+3350	Seeing the Transfigured Jesus and deciding to build a tent.	SPDE
+3351	The indistinguishable Ash Wednesday cross.	SPDE
+3352	Dying but miraculously getting brought back to life.	SPDE
+3353	Having no one to shake hands with at the sign of peace.	SPDE
+3354	Finding the perfect first communion gown.	SPDE
+3355	Cold baptismal water.	SPDE
+3356	A grumpy spiritual director.	SPDE
+3357	Walking the Camino.	SPDE
+3358	A semester in Rome.	SPDE
+3359	Realizing I left the Savior behind in the Temple.	SPDE
+3360	Rose scented Rosaries.	SPDE
+3361	The walls of Jericho.	SPDE
+3362	The worm that ate Jonah's plant.	SPDE
+3363	Living under a rock.	SPDE
+3364	Transubstantiation.	SPDE
+3365	The youth.	SPDE
+3366	Taking full advantage of Fat Tuesday.	SPDE
+3367	Jesus taking the wheel.	SPDE
+3368	Gregorian Chant.	SPDE
+3369	Confirmation season.	SPDE
+3370	Flirting in Catechism class.	SPDE
+3371	Paul Ryan.	SPDE
+3372	Ephesians 5.	SPDE
+3373	The Rock of the Church.	SPDE
+3374	Fr. Mike Schmitz.	SPDE
+3375	Relationship milestones in the Adoration chapel.	SPDE
+3376	HERESY!	SPDE
+3377	Driving a Fiat.	SPDE
+3378	Theologians with beards.	SPDE
+3379	Being in the state of Grace.	SPDE
+3380	Starting a blog.	SPDE
+3381	Plucking my eye out.	SPDE
+3382	Liturgy of the hours.	SPDE
+3383	Chalice chippers.	SPDE
+3384	Pope Francis.	SPDE
+3385	Crushing on the Youth Minister.	SPDE
+3386	A humongous scapular.	SPDE
+3387	Living by the motto "modest is hottest."	SPDE
+3388	Sports jerseys at Mass.	SPDE
+3389	Getting that "ring by spring."	SPDE
+3390	A spiffy new cardigan.	SPDE
+3391	Speaking in a Scottish accent after watching Braveheart.	SPDE
+3392	Mother Angelica.	SPDE
+3393	George Bailey's wonderful life.	SPDE
+3394	Watching the Exorcist while babysitting.	SPDE
+3395	Sweaty hands at the Sign of Peace.	SPDE
+3396	Gandalf's perfectly shaped eyebrows.	SPDE
+3397	Not being allowed to go Trick-orTreating.	SPDE
+3398	A baby dressed as the Pope.	SPDE
+3399	Skillet.	SPDE
+3400	Selling my youngest sibling for a profit.	SPDE
+3401	Little Catholic bookstores.	SPDE
+3402	Descartes.	SPDE
+3403	Ugly Church websites.	SPDE
+3404	Being a fish during the parting of the Red Sea.	SPDE
+3405	The Prince of Egypt.	SPDE
+3406	The extraordinary form of Mass.	SPDE
+3407	The crown of creation.	SPDE
+3408	Skiing with JPII.	SPDE
+3409	A Mama's boy.	SPDE
+3410	Pope Emeritus Benedict XVI.	SPDE
+3411	The infectious Rosary yawn.	SPDE
+3412	Blessed is She brunch.	SPDE
+3413	Forgetting the words to the Apostle's Creed.	SPDE
+3414	The first Lord's day dinner with future in-laws.	SPDE
+3415	Getting food poisoning after a seder meal.	SPDE
+3416	Being holier than thou.	SPDE
+3417	Kneeling to recieve communion making everyone else feel inferior.	SPDE
+3418	Inappropriate applause during Mass.	SPDE
+3419	An energetic church band.	SPDE
+3420	The flirt to convert movement.	SPDE
+3421	Being first in line to board Noah's Ark.	SPDE
+3422	Thinking Brother Sun, Sister Moon was a good movie.	SPDE
+3423	Val Kilmer as God.	SPDE
+3424	Losing a WWJD bracelet and knowing that Jesus wouldn't have done that.	SPDE
+3425	Ripping the technicolor coat.	SPDE
+3426	Wanting the birthright of the firstborn.	SPDE
+3427	Dropping the Host.	SPDE
+3428	Not knowing the words of Praise and Worship songs.	SPDE
+3429	The Charismatic Renewal.	SPDE
+3430	Telling personal Jesus stories.	SPDE
+3431	The visiting priest that barely speaks English.	SPDE
+3432	Purgatory shortening engagements.	SPDE
+3433	Praying the Chaplet because it's shorter than a Rosary.	SPDE
+3434	Being allergic to incense.	SPDE
+3435	Tripping while bringing up the gifts.	SPDE
+3436	The sacrificial giving talk during a homily.	SPDE
+3437	Me.	SPDE
+3438	Arguing about when the 12 days of Christmas actually occur.	SPDE
+3439	Wanting the stigmata, but not really.	SPDE
+3440	Forgetting about the Novena on day 4.	SPDE
+3441	Pope Peter's pinnacle papacy.	SPDE
+3442	A lazy sacristan.	SPDE
+3443	Braided hair.	SPDE
+3444	Feeling holy with a Bible app on my phone.	SPDE
+3445	Not being an animal person at the parish pet blessing.	SPDE
+3446	Literally having a log in my eye.	SPDE
+3447	A camel trying to fit through the eye of the needle.	SPDE
+3448	Casually having a wall of crucifixes as decoration.	SPDE
+3449	A super modest wedding dress.	SPDE
+3450	Leaving my mother and father and clinging to my wife.	SPDE
+3451	A walking Rosary.	SPDE
+3452	Living on a missionary budget.	SPDE
+3453	Stay at home dads.	SPDE
+3454	Seeing a saint statue in the neighbor's yard.	SPDE
+3455	Having too many Nativity sets.	SPDE
+3456	Marian consecration.	SPDE
+3457	Praying for a future spouse.	SPDE
+3458	A thumbs up from St. Catherine of Siena.	SPDE
+3459	An incorruptible pinky toe.	SPDE
+3460	Being devoured by lions.	SPDE
+3461	Not drinking the wine because of germs.	SPDE
+3462	Not being able to hear the Sermon on the Mount.	SPDE
+3463	St. Valentine's bitter attitude towards Hallmark.	SPDE
+3464	Getting my foot caught under the kneeler.	SPDE
+3465	A prayer bouquet.	SPDE
+3466	The Tower of Babel.	SPDE
+3467	Putting blood on the door because I am an Original Israelite.	SPDE
+3468	Baby Moses floating down the Nile.	SPDE
+3469	Mother's Day.	SPDE
+3470	Sheep locators for all those lost sheep.	SPDE
+3471	Naming twins Cain and Abel and wondering how it will turn out.	SPDE
+3472	The three wise men getting into a scuffle.	SPDE
+3473	The donkey wondering what on earth is happening in his manger.	SPDE
+3474	Shaking the dust off my feet.	SPDE
+3475	Knowing the newlyweds are no longer virgins.	SPDE
+3476	A Church coordinator that rules with an iron fist.	SPDE
+3477	The passiveaggresive Church lady.	SPDE
+3478	Meeting the mother of the woman of my dreams.	SPDE
+3479	Dropping out of seminary.	SPDE
+3480	A poorly made Christian movie.	SPDE
+3481	Secretly loving trashy TV.	SPDE
+3482	Praying for an ex.	SPDE
+3483	Beautiful European churches.	SPDE
+3484	Theology on Tap.	SPDE
+3485	Looking like an old baseball mitt.	SPDE
+3486	A nun who gives massages.	SPDE
+3487	Voting for a third-party.	SPDE
+3488	Eating a slice of humble pie after reading the life of any saint.	SPDE
+3489	Getting a new Bible.	SPDE
+3490	The Church being represented accurately in the news.	SPDE
+3491	A silent retreat.	SPDE
+3492	Consummation.	SPDE
+3493	Sunday School.	SPDE
+3494	Friar Tuck.	SPDE
+3495	Seeing a dove in Rome.	SPDE
+3496	The Cardinal who is yearning to be Pope.	SPDE
+3497	A Mass themed tie for Dad.	SPDE
+3498	Adding a new icon to the collection.	SPDE
+3499	The Byzantine Rite.	SPDE
+3500	A dating fast.	SPDE
+3501	Bringing a sword to the earth.	SPDE
+3502	Constantly being pregnant.	SPDE
+3503	Knowing the sign language of Jesus Loves Me.	SPDE
+3504	Refusing to sacrifice to pagan gods.	SPDE
+3505	Mistakenly asking a seminarian for confession.	SPDE
+3506	Saying yes to the habit.	SPDE
+3507	Ending emails with a Latin sign-off.	SPDE
+3508	Abrahams facial reaction learning he has to circumcise himself.	SPDE
+3509	The Sex Talk.	SPDE
+3510	Circumcision.	SPDE
+3511	Superhero movies.	SPDE
+3512	Isaac bargaining with Abraham to sacrifice other things.	SPDE
+3513	Blaring trumpets.	SPDE
+3514	Providing and protecting.	SPDE
+3515	Getting married at 21.	SPDE
+3516	Living at my parent's house until marriage.	SPDE
+3517	An ATM at the back of the church.	SPDE
+3518	Preparing for the flood.	SPDE
+3519	Not having extra cash for the second collection.	SPDE
+3520	Gloooooooooooooo ooooooria.	SPDE
+3521	Striving to convert the Protestant evangelical.	SPDE
+3522	Steubenville.	SPDE
+3523	A cardboard cutout of Pope St. John Paul II.	SPDE
+3524	An "I love my priest" bumper sticker.	SPDE
+3525	Eating cereal as fast as you can an hour before Mass.	SPDE
+3526	Growing up in Catholic school and not being better for it.	SPDE
+3527	Not wanting the "Catholic" label.	SPDE
+3528	Catholic Twitter	SPDE
+3529	Starting fights with other Catholics.	SPDE
+3530	Starting the collection during the Consecration	SPDE
+3531	Singing Salve Regina as a lullaby.	SPDE
+3532	Sitting at the end of the pew so late people can't get in.	SPDE
+3533	Chrism smelling laundry soap.	SPDE
+3534	Dating strictly for marriage.	SPDE
+3535	Thinking the Latin Mass is outdated.	SPDE
 \.
 
 
@@ -7490,7 +8562,7 @@ COPY white_cards (id, text, watermark) FROM stdin;
 -- Name: hibernate_sequence; Type: SEQUENCE SET; Schema: public; Owner: pyx
 --
 
-SELECT pg_catalog.setval('hibernate_sequence', 2622, true);
+SELECT pg_catalog.setval('hibernate_sequence', 3535, true);
 
 
 --
