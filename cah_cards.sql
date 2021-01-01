@@ -1,56 +1,4 @@
--- Pretend You're Xyzzy cards by Andy Janata is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
--- Based on a work at www.cardsagainsthumanity.com.
--- For more information, see http://creativecommons.org/licenses/by-nc-sa/3.0/
-
--- This file contains the Black Cards and White Cards for Cards Against Humanity, as a script for importing into PostgreSQL. There should be a user named pyx.
--- This contains all of the official cards through Q3 2017, imported via pyx-importer from a spreadsheet provided by CAH.
-
---
--- PostgreSQL database dump
---
-
--- Dumped from database version 9.6.7
--- Dumped by pg_dump version 10.1
-
--- Started on 2018-02-27 15:12:09
-
-SET statement_timeout = 0;
-SET lock_timeout = 0;
-SET idle_in_transaction_session_timeout = 0;
-SET client_encoding = 'UTF8';
-SET standard_conforming_strings = on;
-SET check_function_bodies = false;
-SET client_min_messages = warning;
-SET row_security = off;
-
---
--- TOC entry 1 (class 3079 OID 12427)
--- Name: plpgsql; Type: EXTENSION; Schema: -; Owner: 
---
-
-CREATE EXTENSION IF NOT EXISTS plpgsql WITH SCHEMA pg_catalog;
-
-
---
--- TOC entry 2201 (class 0 OID 0)
--- Dependencies: 1
--- Name: EXTENSION plpgsql; Type: COMMENT; Schema: -; Owner: 
---
-
-COMMENT ON EXTENSION plpgsql IS 'PL/pgSQL procedural language';
-
-
-SET search_path = public, pg_catalog;
-
-SET default_tablespace = '';
-
-SET default_with_oids = false;
-
---
--- TOC entry 185 (class 1259 OID 17734)
--- Name: black_cards; Type: TABLE; Schema: public; Owner: pyx
---
-
+BEGIN;
 CREATE TABLE black_cards (
     id integer NOT NULL,
     draw integer NOT NULL,
@@ -58,15 +6,6 @@ CREATE TABLE black_cards (
     text character varying(255),
     watermark character varying(255)
 );
-
-
-ALTER TABLE black_cards OWNER TO pyx;
-
---
--- TOC entry 186 (class 1259 OID 17742)
--- Name: card_set; Type: TABLE; Schema: public; Owner: pyx
---
-
 CREATE TABLE card_set (
     id integer NOT NULL,
     active boolean NOT NULL,
@@ -75,70 +14,20 @@ CREATE TABLE card_set (
     name character varying(255),
     weight integer NOT NULL
 );
-
-
-ALTER TABLE card_set OWNER TO pyx;
-
---
--- TOC entry 187 (class 1259 OID 17750)
--- Name: card_set_black_card; Type: TABLE; Schema: public; Owner: pyx
---
-
 CREATE TABLE card_set_black_card (
     card_set_id integer NOT NULL,
     black_card_id integer NOT NULL
 );
 
-
-ALTER TABLE card_set_black_card OWNER TO pyx;
-
---
--- TOC entry 188 (class 1259 OID 17755)
--- Name: card_set_white_card; Type: TABLE; Schema: public; Owner: pyx
---
-
 CREATE TABLE card_set_white_card (
     card_set_id integer NOT NULL,
     white_card_id integer NOT NULL
 );
-
-
-ALTER TABLE card_set_white_card OWNER TO pyx;
-
---
--- TOC entry 190 (class 1259 OID 17788)
--- Name: hibernate_sequence; Type: SEQUENCE; Schema: public; Owner: pyx
---
-
-CREATE SEQUENCE hibernate_sequence
-    START WITH 1
-    INCREMENT BY 1
-    NO MINVALUE
-    NO MAXVALUE
-    CACHE 1;
-
-
-ALTER TABLE hibernate_sequence OWNER TO pyx;
-
---
--- TOC entry 189 (class 1259 OID 17760)
--- Name: white_cards; Type: TABLE; Schema: public; Owner: pyx
---
-
 CREATE TABLE white_cards (
     id integer NOT NULL,
     text character varying(255),
     watermark character varying(255)
 );
-
-
-ALTER TABLE white_cards OWNER TO pyx;
-
---
--- TOC entry 2189 (class 0 OID 17734)
--- Dependencies: 185
--- Data for Name: black_cards; Type: TABLE DATA; Schema: public; Owner: pyx
---
 
 COPY black_cards (id, draw, pick, text, watermark) FROM stdin;
 1	0	1	Here is the church Here is the steeple Open the doors And there is ____.	US
@@ -777,64 +666,53 @@ COPY black_cards (id, draw, pick, text, watermark) FROM stdin;
 \.
 
 
---
--- TOC entry 2190 (class 0 OID 17742)
--- Dependencies: 186
--- Data for Name: card_set; Type: TABLE DATA; Schema: public; Owner: pyx
---
-
 COPY card_set (id, active, base_deck, description, name, weight) FROM stdin;
-2	t	f	Base Game (US)	Base Game (US)	1
-103	t	f	Base Game (Canada)	Base Game (Canada)	2
-134	t	f	Base Game (UK)	Base Game (UK)	3
-166	t	f	Base Game (Australia)	Base Game (Australia)	4
-191	t	f	Base Game (International)	Base Game (International)	5
-235	t	f	Red Box Expansion	Red Box Expansion	10
-271	t	f	Blue Box Expansion	Blue Box Expansion	10
-342	t	f	Green Box Expansion	Green Box Expansion	10
-398	t	f	90s Nostalgia Pack	90s Nostalgia Pack	30
-406	t	f	Holiday Pack 2012	Holiday Pack 2012	80
-414	t	f	Vote for Hillary Pack	Vote for Hillary Pack	70
-417	t	f	Vote for Trump Pack	Vote for Trump Pack	71
-421	t	f	House of Cards Pack	House of Cards Pack	30
-430	t	f	College Pack	College Pack	30
-437	t	f	Holiday Pack 2013	Holiday Pack 2013	80
-447	t	f	Fantasy Pack	Fantasy Pack	30
-454	t	f	Mass Effect Pack	Mass Effect Pack	101
-459	t	f	Holiday Pack 2014	Holiday Pack 2014	80
-466	t	f	NASA Pack	NASA Pack	30
-469	t	f	Food Pack	Food Pack	30
-476	t	f	PAX East 2013 Pack A	PAX East 2013 Pack A	102
-478	t	f	Season's Greetings Pack	Season's Greetings Pack	83
-482	t	f	PAX East 2013 Pack B	PAX East 2013 Pack B	103
-485	t	f	PAX East 2013 Pack C	PAX East 2013 Pack C	104
-487	t	f	Geek Pack	Geek Pack	30
-494	t	f	PAX East 2014 Pack	PAX East 2014 Pack	106
-499	t	f	Jew Pack	Jew Pack	30
-505	t	f	PAX Prime 2013 Pack	PAX Prime 2013 Pack	105
-510	t	f	Period Pack	Period Pack	30
-517	t	f	Post-Trump Pack	Post-Trump Pack	72
-521	t	f	Reject Pack	Reject Pack	30
-530	t	f	Retail Pack	Retail Pack	30
-533	t	f	Sci-Fi Pack	Sci-Fi Pack	30
-541	t	f	Reject Pack 2	Reject Pack 2	30
-552	t	f	Science Pack	Science Pack	30
-560	t	f	Weed Pack	Weed Pack	30
-566	t	f	Retail Product Pack	Retail Product Pack	30
-568	t	f	Tabletop Pack	Tabletop Pack	100
-572	t	f	World Wide Web Pack	World Wide Web Pack	30
-2131	t	f	Box Expansion Pack	Box Expansion Pack	30
-2152	t	f	Hidden Compartment Pack	Hidden Compartment Pack	30
-2374	t	f	PAX Prime 2014 Pack	PAX Prime 2014 Pack	107
-420	t	f	Catholic Cards	Catholic Cards	1
+2	true	false	Base Game (US)	Base Game (US)	1
+103	true	false	Base Game (Canada)	Base Game (Canada)	2
+134	true	false	Base Game (UK)	Base Game (UK)	3
+166	true	false	Base Game (Australia)	Base Game (Australia)	4
+191	true	false	Base Game (International)	Base Game (International)	5
+235	true	false	Red Box Expansion	Red Box Expansion	10
+271	true	false	Blue Box Expansion	Blue Box Expansion	10
+342	true	false	Green Box Expansion	Green Box Expansion	10
+398	true	false	90s Nostalgia Pack	90s Nostalgia Pack	30
+406	true	false	Holiday Pack 2012	Holiday Pack 2012	80
+414	true	false	Vote for Hillary Pack	Vote for Hillary Pack	70
+417	true	false	Vote for Trump Pack	Vote for Trump Pack	71
+421	true	false	House of Cards Pack	House of Cards Pack	30
+430	true	false	College Pack	College Pack	30
+437	true	false	Holiday Pack 2013	Holiday Pack 2013	80
+447	true	false	Fantasy Pack	Fantasy Pack	30
+454	true	false	Mass Effect Pack	Mass Effect Pack	101
+459	true	false	Holiday Pack 2014	Holiday Pack 2014	80
+466	true	false	NASA Pack	NASA Pack	30
+469	true	false	Food Pack	Food Pack	30
+476	true	false	PAX East 2013 Pack A	PAX East 2013 Pack A	102
+478	true	false	Season's Greetings Pack	Season's Greetings Pack	83
+482	true	false	PAX East 2013 Pack B	PAX East 2013 Pack B	103
+485	true	false	PAX East 2013 Pack C	PAX East 2013 Pack C	104
+487	true	false	Geek Pack	Geek Pack	30
+494	true	false	PAX East 2014 Pack	PAX East 2014 Pack	106
+499	true	false	Jew Pack	Jew Pack	30
+505	true	false	PAX Prime 2013 Pack	PAX Prime 2013 Pack	105
+510	true	false	Period Pack	Period Pack	30
+517	true	false	Post-Trump Pack	Post-Trump Pack	72
+521	true	false	Reject Pack	Reject Pack	30
+530	true	false	Retail Pack	Retail Pack	30
+533	true	false	Sci-Fi Pack	Sci-Fi Pack	30
+541	true	false	Reject Pack 2	Reject Pack 2	30
+552	true	false	Science Pack	Science Pack	30
+560	true	false	Weed Pack	Weed Pack	30
+566	true	false	Retail Product Pack	Retail Product Pack	30
+568	true	false	Tabletop Pack	Tabletop Pack	100
+572	true	false	World Wide Web Pack	World Wide Web Pack	30
+2131	true	false	Box Expansion Pack	Box Expansion Pack	30
+2152	true	false	Hidden Compartment Pack	Hidden Compartment Pack	30
+2374	true	false	PAX Prime 2014 Pack	PAX Prime 2014 Pack	107
+420	true	false	Catholic Cards	Catholic Cards	1
 \.
 
 
---
--- TOC entry 2191 (class 0 OID 17750)
--- Dependencies: 187
--- Data for Name: card_set_black_card; Type: TABLE DATA; Schema: public; Owner: pyx
---
 
 COPY card_set_black_card (card_set_id, black_card_id) FROM stdin;
 2	1
@@ -8555,21 +8433,6 @@ COPY white_cards (id, text, watermark) FROM stdin;
 3535	Thinking the Latin Mass is outdated.	SPDE
 \.
 
-
---
--- TOC entry 2202 (class 0 OID 0)
--- Dependencies: 190
--- Name: hibernate_sequence; Type: SEQUENCE SET; Schema: public; Owner: pyx
---
-
-SELECT pg_catalog.setval('hibernate_sequence', 3535, true);
-
-
---
--- TOC entry 2059 (class 2606 OID 17741)
--- Name: black_cards black_cards_pkey; Type: CONSTRAINT; Schema: public; Owner: pyx
---
-
 ALTER TABLE ONLY black_cards
     ADD CONSTRAINT black_cards_pkey PRIMARY KEY (id);
 
@@ -8651,4 +8514,4 @@ ALTER TABLE ONLY card_set_white_card
 --
 -- PostgreSQL database dump complete
 --
-
+END;
